@@ -222,5 +222,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/kaushikdacharya">Kaushik Dacharya</a>
+  Made with ❤️ by <a href="https://github.com/kaushikdacharya">Kaushik D Acharya</a>
 </div>
